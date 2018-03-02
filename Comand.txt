@@ -1,0 +1,8 @@
+"""WebSocket CLI interface.
+
+Install: pip install twisted txws
+
+Run: twistd -ny wscli.py
+
+
+"""
